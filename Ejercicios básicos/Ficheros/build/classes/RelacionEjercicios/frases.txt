@@ -1,0 +1,7 @@
+Realiza un programa que dado un fichero de texto
+muestre el numero de caracteres
+el numero de palabras
+y el número de líneas del fichero
+Suponemos que las palabras están separadas de otra siempre por un espacio en rojo
+Suponemos que las palabras están separadas de otra siempre por un espacio en azul
+Suponemos que las palabras están separadas de otra siempre por un espacio en gris
